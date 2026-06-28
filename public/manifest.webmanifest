@@ -1,0 +1,17 @@
+{
+  "name": "오늘 세 개",
+  "short_name": "오늘 세 개",
+  "description": "오늘 진짜 중요한 일 딱 3개에만 집중하는 플래너",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
